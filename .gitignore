@@ -2,6 +2,7 @@
 
 # Ignore node_modules in the client directory
 /client/node_modules/
+/client/README.md
 
 # Ignore node_modules in the server directory
 /server/node_modules/
